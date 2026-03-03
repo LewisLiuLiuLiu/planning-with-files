@@ -125,6 +125,9 @@ These amazing people have contributed code, documentation, or significant improv
   - Added `assets` field to ensure templates copy to cache
   - **Impact:** Resolved template path issues
 
+- **[@tt-a1i](https://github.com/tt-a1i)** - [PR #92](https://github.com/OthmanAdi/planning-with-files/pull/92)
+  - Fixed broken Advanced Topics links in Codex SKILL.md (reference.md and examples.md paths)
+
 ## Community Forks
 
 These developers have created forks that extend the functionality:
@@ -140,6 +143,7 @@ These developers have created forks that extend the functionality:
 
 Thank you to everyone who reported issues, provided feedback, and helped test fixes:
 
+- [@msuadOf](https://github.com/msuadOf) - Issue #93 (TMPDIR environment fix for plugin install)
 - [@DorianZheng](https://github.com/DorianZheng) - Issue #84 (BoxLite sandbox integration proposal)
 - [@mtuwei](https://github.com/mtuwei) - Issue #32 (Windows hook error)
 - [@JianweiWangs](https://github.com/JianweiWangs) - Issue #31 (Skill activation)
@@ -167,6 +171,6 @@ If you've contributed and don't see your name here, please open an issue! We wan
 
 ---
 
-**Total Contributors:** 24+ and growing!
+**Total Contributors:** 25+ and growing!
 
-*Last updated: February 28, 2026*
+*Last updated: March 3, 2026*
